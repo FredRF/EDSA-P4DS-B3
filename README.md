@@ -11,4 +11,4 @@ In this sense, this report focuses on identifying the geographical areas with hi
 
 # 📂 Data
 Please download the source data from [NOVA IMS Onedrive](https://liveeduisegiunl-my.sharepoint.com/:u:/g/personal/m20201723_novaims_unl_pt/EYWFZwXsXa9FiggezRypfH8BotnDpK9JquIPivFkLKmAvQ?e=mjQBES). The file sizes were too big for github to handle.  
-Unzip the file to the same folder of the notebook.
+Unzip the folder "data" to the same folder of the notebook.
